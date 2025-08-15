@@ -46,7 +46,7 @@ Aplicação prática para gestão de serviços
 
 Clone o repositório:
 
-git clone https://github.com/felipesilvalima/sistema-barbearia-admin-c.git
+git clone https://github.com/felipesilvalima/sistema-de-agendamento-para-barbearia.git
 
 
 Acesse a pasta:
