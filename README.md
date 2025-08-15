@@ -39,14 +39,14 @@ Controle administrativo simulado
 Aplicação prática para gestão de serviços
 
 📷 Demonstração
-![Exemplo de tela](docs/Screenshot_barbearia.png.
+![Exemplo de tela](docs/Screenshot_barbearia.png).
 
 
 ▶️ Como executar
 
 Clone o repositório:
 
-git clone https://github.com/felipesilvalima/Sistema-de-Agendamento-Barbearia.c
+git clone https://github.com/felipesilvalima/sistema-de-agendamento-para-barbearia.git
 
 
 Acesse a pasta:
